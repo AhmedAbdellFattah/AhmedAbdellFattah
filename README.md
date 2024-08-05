@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=AhmedAbdellFattah&style=for-the-badge">
 </a>
 
-- 🏢 I'm a Software Engineer and Junior Front-End Engineer
+- 🏢 I'm a Front-End Engineer and soon a Full-Stack Engineer!
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with HTML, CSS, and JavaScript, or anything related to web development.
 - 👨‍💻 Check out my portfolio at 
